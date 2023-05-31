@@ -7,6 +7,11 @@ repositories {
 
 dependencies {
        providedCompile 'org.apache.tomcat:tomcat-servlet-api:8.5.15'
+    providedCompile 'org.apache.commons:commons-csv:1.8'
+    compile group: 'org.apache.poi', name: 'poi-ooxml', version: '3.16-beta1'
+    providedCompile 'org.hibernate:hibernate-core:5.3.6.Final'
+    providedCompile 'org.json:json:20180130'
+    providedCompile  'com.google.code.gson:gson:2.8.9'
 }
 
 jar {

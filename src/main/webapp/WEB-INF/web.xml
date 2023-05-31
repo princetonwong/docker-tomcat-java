@@ -10,4 +10,15 @@
     <servlet-name>HelloWorldServlet</servlet-name>
     <url-pattern>/</url-pattern>
   </servlet-mapping>
+<!--  <servlet>-->
+<!--    <servlet-name>generation</servlet-name>-->
+<!--    <servlet-class>com.jvg.generation</servlet-class>-->
+<!--  </servlet>-->
+
+<!--  <servlet-mapping>-->
+<!--    <servlet-name>generation</servlet-name>-->
+<!--    <url-pattern>/generation</url-pattern>-->
+<!--  </servlet-mapping>-->
 </web-app>
+
+
